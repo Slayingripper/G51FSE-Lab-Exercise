@@ -1,0 +1,4 @@
+#ignored files that are generated during the build process
+*.aux
+*.log
+*.gz
